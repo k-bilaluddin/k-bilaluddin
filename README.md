@@ -1,7 +1,7 @@
 <div align="center">
 
 # Khawaja Bilal Uddin
-### Senior Full Stack Developer · Frankfurt, Germany
+### Full Stack Developer · Frankfurt, Germany
 
 **.NET 8 · Node.js · React · TypeScript · Azure · AWS**
 
@@ -18,7 +18,7 @@
 
 6+ years building high-scale distributed systems and SaaS platforms. I specialize in backend-heavy, event-driven architectures — the kind that handle **3B+ annual orders** and **90M+ peak daily transactions** without flinching.
 
-Currently based in the **Frankfurt area**, I'm looking for **Senior Full Stack or Backend Developer** roles at product-focused companies in Germany. I work best in English-friendly teams building things that scale.
+Currently based in the **Frankfurt area**, I'm looking for **Full Stack or Backend Developer** roles at product-focused companies in Germany. I work best in English-friendly teams building things that scale.
 
 - 🏗️ Architecting microservices, event-driven pipelines, and REST APIs at scale
 - ☁️ Cloud-native on Azure & AWS — CI/CD, Docker, containerized deployments
@@ -87,7 +87,7 @@ Currently based in the **Frankfurt area**, I'm looking for **Senior Full Stack o
 
 <div align="center">
 
-**Open to Senior Full Stack / Backend Developer roles in Germany**
+**Open to Full Stack / Backend Developer roles in Germany**
 *Product companies · English-friendly teams · Remote or Hybrid*
 
 [![Email Me](https://img.shields.io/badge/Let's%20Talk-mbilaluddin1994@gmail.com-0A66C2?style=for-the-badge)](mailto:mbilaluddin1994@gmail.com)
