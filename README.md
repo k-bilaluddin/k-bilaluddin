@@ -68,6 +68,8 @@ Currently based in the **Frankfurt area**, I'm looking for **Full Stack or Backe
 
 ## GitHub Stats
 
+> 6+ years of work across two accounts — this one's 2025–present; see my [former account →](https://github.com/kbilaluddin) for 2019–2025
+
 <div align="center">
 
 ![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-bilaluddin&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
